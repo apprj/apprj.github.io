@@ -1,0 +1,1 @@
+<a href=".jpeg" download><img src=".jpeg" width="100%"><a>
