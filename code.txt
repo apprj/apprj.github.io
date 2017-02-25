@@ -1,4 +1,4 @@
-<a href=".jpeg" download><img src=".jpeg" width="100%"><a>
+<a href="" download><img src="" width="100%"><a>
 
 <div class="jadwal">
   <div class="dot border-sea"></div>
