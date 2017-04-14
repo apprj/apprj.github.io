@@ -1,5 +1,7 @@
 <a href="" download><img src="" width="100%"><a>
 
+<a class="daycolor"></a><br>
+
 <div class="jadwal">
   <div class="dot border-sea"></div>
   <p class="daycolor"></p>
