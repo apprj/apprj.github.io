@@ -8,3 +8,27 @@
   <p class="bold"></p>
   <p><br></p><br>
 </div>
+
+<div class="jadwal">
+  <div class="dot border-sea"></div>
+  <p class="daycolor">rutinan jum'at legi<br>jum'at, 21 April 2017 - ba'da isya' awal</p>
+  <p class="bold"></p>
+  <p>Bertempat di PP. Riyadlul Jannah, Dsn. Bangkon, Desa Pendem, Kec. Junrejo – Kota Batu<br>
+  Mubaligh Habib Muhammad bin Anies Shahab (Lawang)</p>
+</div>
+
+<div class="jadwal">
+  <div class="dot border-sea"></div>
+  <p class="daycolor">rutinan burdah (khusus jama'ah putri)<br>ahad, 30 April 2017 - ba'da dhuhur awal</p>
+  <p class="bold"></p>
+  <p>Bertempat di Pondok Pesantren Ar Riyadh Riyadlul Jannah / Markas Besar Majlis Riyadlul Jannah Dusun Bangkon Desa Pendem Kec. Junrejo Kota Batu.</p>
+</div>
+
+<div class="jadwal">
+  <div class="dot border-sea"></div>
+  <p class="daycolor">rutinan kamis pahing<br>kamis, 27 April 2017 - ba'da isya awal</p>
+  <p class="bold"></p>
+  <p>Bertempat di Kediaman Khodimul Majlis Al Habib Abdurrahman bin Hasyim Baraqbah<br>
+  Jalan Sekargadung Karanglo Desa Banjararum Kec. Singosari Kab. Malang (Masjid Al - Istiqomah Karanglo Ke Barat).
+</p>
+</div>
